@@ -1,14 +1,14 @@
 # Что это?
-Лендинг в рамках обучения Яндекс.Практикум.  
-Страницы сверстанны на чистом CSS с применением методологии БЭМ (именование классов).  
-Работа с макетом в Figma.  
-Верстка проходила код ревью.  
+* Кросбраузерный и адаптивный лендинг по мотивам мест России, в рамках обучения Яндекс.Практикум.  
+* Страницы сверстанны на чистом CSS с применением методологии БЭМ (архитектуры и именования классов).  
+* Работа с макетом в Figma.  
+* Верстка проходила код ревью.  
 
 ## Демо 
-![Main page](https://github.com/IvanCen/yandex__project_learn-to-learn/blob/master/images/main_pic.png "Научится учиться")
+![Main page](https://github.com/IvanCen/yandex__project_mesto/blob/master/images/main_pic.png "Скрин главной страницы проекта Место")
 
 ## Как открыть?
-Пройти по ссылке: https://ivancen.github.io/yandex__project_learn-to-learn/
+Пройти по ссылке: https://ivancen.github.io/yandex__project_mesto/
 
 ## Стек технологий
 HTML, CSS.
