@@ -5,11 +5,12 @@
 * Работа с макетом в Figma.  
 * Верстка проходила код ревью.  
 
-## Демо 
-![Main page](https://github.com/IvanCen/yandex__project_mesto/blob/master/images/main_pic.png "Скрин главной страницы проекта Место")
-
 ## Как открыть?
 Пройти по ссылке: https://ivancen.github.io/yandex__project_mesto/
+
+
+## Демо 
+![Main page](https://github.com/IvanCen/yandex__project_mesto/blob/master/images/main_pic.png "Скрин главной страницы проекта Место")
 
 ## Стек технологий
 HTML, CSS.
